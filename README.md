@@ -13,10 +13,10 @@
 ## Scope
 ## Lexial scope
 ## Conditionnals reference types
-##iteration
-##error handling
-##function 2
-##inheritance
-##Context
+## Iteration
+## Error handling
+## Function 2
+## Inheritance
+## Context
 
  
