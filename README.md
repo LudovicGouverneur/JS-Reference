@@ -2,22 +2,25 @@
 
 ## Human-helpers
 
-## Primitives (& Coercion)
+## Primitives & Coercion
 * [Snip_Example_1](https://github.com/LudovicGouverneur/Snip_Example_1.git)
 * [Snip2_StringMethodEx](https://github.com/LudovicGouverneur/Snip2_StringMethodEx.git)
+
 ## Operators
 
-## Variables
+## Variables and Scope
+* [Snip_Perso1_VarLet.git](https://github.com/LudovicGouverneur/Snip_Perso1_VarLet.git)
 
-## Block Scope
-
-## Scope
-## Lexial scope
 ## Conditionnals reference types
+
 ## Iteration
+
 ## Error handling
+
 ## Function 2
+
 ## Inheritance
+
 ## Context
 
  
