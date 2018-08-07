@@ -3,8 +3,8 @@
 ## Human-helpers
 
 ## Primitives (& Coercion)
-[Snip_Example_1](https://github.com/LudovicGouverneur/Snip_Example_1.git)
-[Snip2_StringMethodEx](https://github.com/LudovicGouverneur/Snip2_StringMethodEx.git)
+* [Snip_Example_1](https://github.com/LudovicGouverneur/Snip_Example_1.git)
+* [Snip2_StringMethodEx](https://github.com/LudovicGouverneur/Snip2_StringMethodEx.git)
 ## Operators
 
 ## Variables
