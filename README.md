@@ -22,5 +22,3 @@
 ## Inheritance
 
 ## Context
-
- 
