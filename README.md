@@ -6,6 +6,7 @@
   * [Snip2_StringMethodEx](https://github.com/LudovicGouverneur/Snip2_StringMethodEx.git)
   * [Snip_Perso1_VarLet.git](https://github.com/LudovicGouverneur/Snip_Perso1_VarLet.git)
   * [snip_plusplus](https://github.com/LudovicGouverneur/snip_plusplus.git)
+  * [6snippet_02](https://github.com/LudovicGouverneur/snip_day3_02.git)
   
 ## Human-helpers
 
