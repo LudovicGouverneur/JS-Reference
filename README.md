@@ -7,7 +7,7 @@
   * [Snip_Perso1_VarLet.git](https://github.com/LudovicGouverneur/Snip_Perso1_VarLet.git)
   * [snip_plusplus](https://github.com/LudovicGouverneur/snip_plusplus.git)
   * [6snippet_02](https://github.com/LudovicGouverneur/snip_day3_02.git)
-  
+  * [addition-assignment-str-num](https://github.com/LudovicGouverneur/addition-assignment-str-num.git)
 ## Human-helpers
 
 ## Primitives & Coercion
